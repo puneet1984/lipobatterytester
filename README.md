@@ -36,7 +36,7 @@ JLCPCB is now offering SMT assembly service that too at a very reasonable price 
 
 Capacity of any battery is measured in mAh(milliamp hours) or Ah (Amp Hours) depending on the size of batteries, lead acid battery or lithium ferrous phosphate (LiFePO4) battery capacities are mentioned in Ah while for lithium based small batteries its mentioned in mAh.
 
-Capacity of a battery is the amount of power it can deliver from full charge to full discharge. So for example, a 2200mAh lipo battery means that it can deliver max of 2200mA or 2.2A for 1 hour or 2.2mA for 100 hours.
+Capacity of a battery is the amount of power it can deliver from full charge to full discharge. So for example, a 2200mAh lipo battery means that it can deliver max of 2200mA or 2.2A for 1 hour or 2.2mA for 1000 hours.
 
 Thus for us to calculate the total capacity of a battery we need to calculate the current consumed over a time period.
 
