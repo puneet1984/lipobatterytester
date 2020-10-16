@@ -1,11 +1,11 @@
 # lipobatterytester
 DIY LiPo Battery Capacity Tester
 
-Intro:
+# Intro:
 
 Like all of you, I also have a bunch of salvaged Lithium-Polymer (LiPo) batteries from old laptop battery pack or from old power banks. They all have different rated capacity and we do not know the present capacity of these batteries. There are many capacity tester in market commercially available but i thought why not use our arduino to make a capacity tester. Making it was super fun with lots of troubleshooting but at the end I got it working with good results.
 
-Supplies:
+# Supplies:
 Perf board or fabricated PCB
 arduino Nano
 Power resistors 10W - 7.8 Ohm
@@ -14,7 +14,7 @@ OLED screen
 filter capacitors - 100nf - (code 103) - to smooth out the input readings
 N-channel MOSFET - logic level - SI2302 (SMD)
 
-Schematic Designing, PCB Layout and Ordering PCB
+# Schematic Designing, PCB Layout and Ordering PCB
 
 I have used EasyEda to design the 2-layer PCB.
 It’s easy and fun to use and has the footprint libraries of most of the components. If anyone wants i can always post the gerber files for you.
@@ -25,7 +25,7 @@ JLCPCB are also sponsor of this project. JLCPCB (Shenzhen JLC Electronics Co., L
 
 JLCPCB is now offering SMT assembly service that too at a very reasonable price and after trying it I must say that they are doing excellent work and their craftsmanship is comparable to any other commercial PCB manufacturing and assembly service all over the world. Their backend team is so efficient and through that they will check each and every design and component placement and will inform the customer about required changes in design or about wrong placement and polarity of the components and correct the minor issues at their end itself.
 
-Working Principle
+# Working Principle
 
 Capacity of any battery is measured in mAh(milliamp hours) or Ah (Amp Hours) depending on the size of batteries, lead acid battery or lithium ferrous phosphate (LiFePO4) battery capacities are mentioned in Ah while for lithium based small batteries its mentioned in mAh.
 
