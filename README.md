@@ -7,12 +7,19 @@ Like all of you, I also have a bunch of salvaged Lithium-Polymer (LiPo) batterie
 
 # Supplies:
 Perf board or fabricated PCB
+
 arduino Nano
+
 Power resistors 10W - 7.8 Ohm
+
 Shunt Resistors 10W - 0.2 Ohm
+
 OLED screen
+
 filter capacitors - 100nf - (code 103) - to smooth out the input readings
+
 N-channel MOSFET - logic level - SI2302 (SMD)
+
 
 # Schematic Designing, PCB Layout and Ordering PCB
 
