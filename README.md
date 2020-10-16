@@ -1,5 +1,5 @@
-# lipobatterytester
-DIY LiPo Battery Capacity Tester
+ lipobatterytester
+# DIY LiPo Battery Capacity Tester
 
 # Intro:
 
